@@ -57,6 +57,9 @@ Write a query to return only the **root categories** from this table.
 2. 📝 Run your query.  
 3. 💡 Need help? Check out the **[`solutions.sql`](solutions.sql)** file.  
 
+Watch the first Challenge if you need more help getting the code started.
+🔗 [Link to first Challenge 001](https://github.com/veryacademy/SQL-Challenge-0001-Scenario-A) 
+
 ---
 
 ## 📌 Don't Forget  
